@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 @font-face {
   font-family: 'Roboto';
-  font-style: italic;
+font-style: italic;
   font-weight: 100;
   src: url(Roboto/Roboto-Italic.ttf) format('truetype');
 }
@@ -2612,7 +2612,8 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.5em;
+		    padding-left: 0.5em;
+		    text-align: left
 		}
 
 		ul.alt {
@@ -3542,10 +3543,10 @@ input, select, textarea {
 			#banner .content .image {
 				border-radius: 100%;
 				display: inline-block;
-				height: 18em;
+				height: 20em;
 				margin-left: 3em;
 				vertical-align: middle;
-				width: 18em;
+				width: 20em;
 			}
 
 				#banner .content .image img {
