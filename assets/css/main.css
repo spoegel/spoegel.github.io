@@ -2613,7 +2613,8 @@ input, select, textarea {
 
 		ul li {
 		    padding-left: 0.5em;
-		    text-align: left
+		    text-align: left;
+				margin: 10px 0;
 		}
 
 		ul.alt {
@@ -3158,7 +3159,19 @@ input, select, textarea {
 			width: 28em;
 		}
 
+		.spotlight.leftwide .content, .spotlight.rightwide .content {
+			height: 101%;
+			padding: 6em 3em;
+			top: 0;
+			width: 50em;
+		}
+
 		.spotlight.left .content {
+			border-right-width: 0.35em;
+			left: 0em;
+		}
+
+		.spotlight.leftwide .content {
 			border-right-width: 0.35em;
 			left: 0;
 		}
