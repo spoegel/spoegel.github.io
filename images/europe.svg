@@ -3,7 +3,7 @@
 
 <svg
    version="1.0"
-   width="500"
+   width="600"
    height="400"
    id="svg2000"
    sodipodi:docname="europe.svg"
@@ -24,15 +24,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.57956133"
-     inkscape:cx="472.77136"
-     inkscape:cy="324.38327"
+     inkscape:zoom="1.0623733"
+     inkscape:cx="140.25202"
+     inkscape:cy="222.14414"
      inkscape:window-width="1680"
      inkscape:window-height="997"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2000" />
+     inkscape:current-layer="svg2000"
+     showguides="false" />
   <defs
      id="defs2003">
     <marker
@@ -786,7 +787,7 @@
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#15151b;stroke-width:3.156;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#ArrowWideRounded-49)"
-     d="m 236.62443,214.28807 c 11.17317,-17.74654 14.90083,-33.58392 15.81001,-44.49019"
+     d="m 245.9213,209.93875 c 11.17317,-17.74654 8.96897,-28.9654 8.12835,-40.00627"
      id="path93-5"
      sodipodi:nodetypes="cc" />
   <path
@@ -843,15 +844,15 @@
      style="fill:#15151b;fill-opacity:1;stroke:none;stroke-width:4.27521;stroke-dasharray:none;stroke-opacity:1"
      id="path94-2-2-6"
      sodipodi:type="arc"
-     sodipodi:cx="232.53799"
-     sodipodi:cy="219.8976"
+     sodipodi:cx="242.53799"
+     sodipodi:cy="215.8976"
      sodipodi:rx="3.4657412"
      sodipodi:ry="3.3816507"
      sodipodi:start="0"
      sodipodi:end="5.9773064"
      sodipodi:open="true"
      sodipodi:arc-type="arc"
-     d="m 236.00374,219.8976 a 3.4657412,3.3816507 0 0 1 -3.20098,3.37177 3.4657412,3.3816507 0 0 1 -3.69005,-2.8566 3.4657412,3.3816507 0 0 1 2.63717,-3.80823 3.4657412,3.3816507 0 0 1 4.09299,2.27474"
+     d="m 246.00374,215.8976 a 3.4657412,3.3816507 0 0 1 -3.20098,3.37177 3.4657412,3.3816507 0 0 1 -3.69005,-2.8566 3.4657412,3.3816507 0 0 1 2.63717,-3.80823 3.4657412,3.3816507 0 0 1 4.09299,2.27474"
      inkscape:transform-center-x="-0.71192288"
      inkscape:transform-center-y="1.7798072" />
 </svg>
