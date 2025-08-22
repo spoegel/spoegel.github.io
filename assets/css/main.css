@@ -3176,6 +3176,11 @@ input, select, textarea {
 			left: 0;
 		}
 
+		.spotlight.rightwide .content {
+			border-right-width: 0.35em;
+			right: 0;
+		}
+
 		.spotlight.right .content {
 			border-left-width: 0.35em;
 			right: 0;
